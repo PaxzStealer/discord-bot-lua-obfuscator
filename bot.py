@@ -4,7 +4,7 @@ import os
 import subprocess
 import shutil
 
-TOKEN = "TOKEN"
+TOKEN = "MTExOTU3Mjc2NDU1NTIyMzEzMg.G-qlf7.2PqDGMgrFxZSbOS9a3N6kwSjfRa_M3fplaMd3c"
 channel_id = 0000000000000
 
 intents = discord.Intents.all()
